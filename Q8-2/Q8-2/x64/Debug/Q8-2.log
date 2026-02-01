@@ -1,0 +1,15 @@
+﻿  Source1.cpp
+C:\Users\mgasp\OneDrive - Franciscan University of Steubenville\source\repos\Q8-2\Q8-2\Source1.cpp(15,38): error C2248: 'BankAccount::accountNumber': cannot access private member declared in class 'BankAccount'
+      C:\Users\mgasp\OneDrive - Franciscan University of Steubenville\source\repos\Q8-2\Q8-2\Header.h(7,9):
+      see declaration of 'BankAccount::accountNumber'
+      C:\Users\mgasp\OneDrive - Franciscan University of Steubenville\source\repos\Q8-2\Q8-2\Header.h(5,7):
+      see declaration of 'BankAccount'
+  
+C:\Users\mgasp\OneDrive - Franciscan University of Steubenville\source\repos\Q8-2\Q8-2\Source1.cpp(21,9): error C2248: 'BankAccount::accountNumber': cannot access private member declared in class 'BankAccount'
+      C:\Users\mgasp\OneDrive - Franciscan University of Steubenville\source\repos\Q8-2\Q8-2\Header.h(7,9):
+      see declaration of 'BankAccount::accountNumber'
+      C:\Users\mgasp\OneDrive - Franciscan University of Steubenville\source\repos\Q8-2\Q8-2\Header.h(5,7):
+      see declaration of 'BankAccount'
+  
+  Source2.cpp
+  Generating Code...
